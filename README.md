@@ -1,0 +1,2 @@
+# Evolving-Neuronal-Flocks
+ Evolving Flocks Simulation: A detailed artificial life simulation that explores emergent collective behaviors and evolutionary transitions in individuality through evolving neural networks. This Python simulation uses Pygame for visualization and incorporates advanced concepts like neural network-based decision processes, predator-prey dynamics, and environmental interactions among agents.
