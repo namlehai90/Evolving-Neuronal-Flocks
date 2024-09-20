@@ -3,6 +3,12 @@
 ## Introduction
 This repository hosts the Python code for a simulation of evolving artificial life forms, called 'boids', which display complex collective behaviors. These behaviors arise from interactions between boids and predators, driven by neural networks and evolutionary mechanisms.
 
+## Author
+**Nam H. Le, PhD.**  
+Former Senior Research Fellow at the University of Southampton, currently a Postdoctoral Research Associate at the University of Vermont.  
+This code is part of the project "Connectionist approaches to evolutionary transitions in individuality," conducted at the University of Southampton. The project is led by Principal Investigators Prof. Richard A. Watson (University of Southampton) and Prof. Mike Levin (Tufts University).
+
+
 ## Features
 - **Boid Behaviors**: Boids follow simple rules of separation, alignment, and cohesion, which are influenced by neural networks.
 - **Predator Dynamics**: Predators influence boid behaviors, prompting the emergence of defensive strategies.
