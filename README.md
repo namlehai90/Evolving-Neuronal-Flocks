@@ -8,6 +8,10 @@ This repository hosts the Python code for a simulation of evolving artificial li
 Former Senior Research Fellow at the University of Southampton, currently a Postdoctoral Research Associate at the University of Vermont.  
 This code is part of the project "Connectionist approaches to evolutionary transitions in individuality," conducted at the University of Southampton. The project is led by Principal Investigators Prof. Richard A. Watson (University of Southampton) and Prof. Mike Levin (Tufts University).
 
+## Video Demonstration
+Watch the demonstration of the simulation on YouTube:  
+[![Watch the video](https://img.youtube.com/vi/0fqAUwj0fDk/hqdefault.jpg)](https://www.youtube.com/watch?v=0fqAUwj0fDk)
+
 
 ## Features
 - **Boid Behaviors**: Boids follow simple rules of separation, alignment, and cohesion, which are influenced by neural networks.
