@@ -10,8 +10,10 @@ def string_to_seed(input_string):
     """Convert a string to a stable integer hash."""
     return int(hashlib.sha256(input_string.encode('utf-8')).hexdigest(), 16) % (2**32)
 
-seed_string = "yen chi"
-seed = string_to_seed(seed_string)
+#seed_string = "yen chi"
+#seed = string_to_seed(seed_string)
+
+seed = 2024
 
 # Set the seed for Python's random module
 random.seed(seed)
